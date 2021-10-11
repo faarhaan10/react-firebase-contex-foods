@@ -1,0 +1,18 @@
+.side-bg{
+    background: url("https://templates.iqonic.design/foodsto/html/theme/dist/assets/images/banner/banner-2-shap.png") center center / contain no-repeat scroll; opacity: 1; transform: translate(0px, 0px);
+}
+
+.home-bg{
+    background-color: #D2F7DB;
+}
+.foods-color{
+    color: #00d13a !important;
+}
+.foods-color-hv:hover{
+    color: #00d13a !important;
+    border-bottom: 1px solid #00d13a !important;
+}
+.foods-color-hv:focus{
+    color: #00d13a !important;
+    border-bottom: 4px solid #00d13a !important;
+}
